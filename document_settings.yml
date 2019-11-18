@@ -1,22 +1,24 @@
 document:
   type: Linee guida
-  name: Regole Tecniche per XXXXX
-  short_name: Ll.gg. XXXXXX
+  name: Regole Tecniche e Raccomandazioni afferenti la generazione di certificati elettronici qualificati, firme e sigilli elettronici qualificati e validazioni temporali elettroniche qualificate
+  short_name: Ll.gg. certificati qualificati
   author: walter-arrighetti
   contributors:
     - Stefano Arbia
     - Walter Arrighetti
-    - Michele d'Amico
     - Antonio Florio
     - Stefano Ianniello
     - Andrea Spallacci
   description: |
-    Linee Guida contenenti Regole Tecniche circa XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Regole Tecniche e Raccomandazioni afferenti la generazione di certificati elettronici qualificati, firme e sigilli elettronici qualificati e validazioni temporali elettroniche qualificate
   tags:
-    - tag1
-    - tag2
-    - tag3
-    - tag4
-    - tag5
+    - eIDAS
+    - QSignature
     - QSeal
+    - QWAC
+    - time stamping
+    - qualified trust service
+    - firma elettronica qualificata
+    - sigillo elettronico qualificato
+    - certificato elettronico qualificato
   origin: https://github.com/test-lg/NAME-OF-REPOSITORY/
