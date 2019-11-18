@@ -1,19 +1,12 @@
-# Regole Tecniche circa ARGOMENTO DELLE REGOLE TECNICHE
+# Regole Tecniche e Raccomandazioni afferenti la generazione di certificati elettronici qualificati, firme e sigilli elettronici qualificati e validazioni temporali elettroniche qualificate
 ## Linee Guida AgID ex art. 71 del CAD
 
-Capoverso/i introduttivo/i.
+Il regolamento eIDAS dispone alcuni obblighi in capo ai QTSP che emettono certificati qualificati per la generazione di firme e sigilli elettronici e certificati qualificati di autenticazione di siti web; individua i requisiti per la convalida delle firme elettroniche qualificate (art. 32) e, mutatis mutandis, dei sigilli elettronici qualificati (art. 40), come anche i requisiti per i certificati qualificati di autenticazione di siti web (art. 45) e per la validazione temporale elettronica qualificata (art. 42).
 
-Modificare i file `README.md` e il file `index.rst` affinché contengano la descrizione generale delle Linee Guida e, rispettivamente, l'indice dei contenuti del documento, che può puntare ad altri file RST; si consiglia l'uso di un file RST per ciascun documento separato (ad esempio: documento principale più i suoi Allegati). Documenti particolarmente lunghi possono essere suddivisi usando un file RST per ciascun capitolo.
-
- * Si consiglia di collocare gli eventuali Articoli o capitoli in una sottocartella `sec/` dedicata.
- * Si consiglia di collocare gli eventuali Allegati in una sottocartella `att/` dedicata.
- * Si consiglia di collocare gli eventuali file multimediali (e.g. immagini, video, ecc.) in sottocartelle di secondo livello, separate per tipologia (e.g. `images/`, `audio/`, ecc.), all'interno di una sottocartella dedicata `media/`.
- * Si consiglia di collocare gli eventuali esempi di codice o documenti elettronici in una sottocartella dedicata `samples/`, eventualmente separati per tipologia mediante sottocartelle di secondo livello.
+Il presente provvedimento, emanato ai sensi dell’articolo 71 del CAD, contiene nel paragrafo 3 (Obblighi) alcune previsioni rese obbligatorie in forza o in attuazione del regolamento eIDAS, mentre nel paragrafo 4 (Raccomandazioni) indicazioni volte a garantire maggiormente l’interoperabilità e la fruizione dei servizi in rete nel contesto italiano.
 
 ## Link al documento e consultazione
 
-Link al documento *Docs Italia*: https://lg-spid-NOME.readthedocs.io
+Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-certificati-qualificati-docs
 
-Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/lg-spid-NOME
-
-La consultazione sarà attiva dal GG MESE 20?? al GG MESE 20??.
+Link per commenti *Forum Italia*: https://forum.italia.it/c/lg-certificati-qualificati-docs
