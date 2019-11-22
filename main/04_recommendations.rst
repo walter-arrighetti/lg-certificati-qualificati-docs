@@ -7,9 +7,10 @@ Raccomandazioni
 
    La piena applicazione delle raccomandazioni oggetto del presente
    provvedimento nei certificati elettronici conformi alla specifica
-   :RFC:`5280: è dichiarata attraverso la codifica, nel campo
-   :code:`CertificatePolicies` (OID 2.5.29.32), di un elemento
-   *PolicyIdentifier* con valore agIDcert (OID 1.3.76.16.6).
+   :RFC:`5280`: è dichiarata attraverso la codifica, nel campo
+   :code:`CertificatePolicies` (`ᴏɪᴅ 2.5.29.32 <http://oid-info.com/get/2.5.29.32>`__),
+   di un elemento :code:`PolicyIdentifier` con valore
+   :code:`agIDcert` (`ᴏɪᴅ 1.3.76.16.6 <http://oid-info.com/get/1.3.76.16.6>`__).
 
 I QTSP che si impegnano a fornire – salvo diversa richiesta degli
 interessati - i servizi oggetto del presente regolamento applicando
