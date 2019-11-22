@@ -29,3 +29,7 @@ raccomandazioni e non di obblighi, la loro disapplicazione non possa
 comportare l’invalidità di firme o sigilli elettronici qualificati. Il
 :ref:`paragrafo 5 <§5>` contiene alcune indicazioni per il processo di
 convalida di firme e sigilli elettronici.
+
+Le disposizioni contenute nelle presenti regole tecniche che
+risultino in contrasto con future versioni del :ref:`regolamento eIDAS <eIDAS>`
+o dei regolamenti esecutivi derivanti, devono essere disapplicate.
