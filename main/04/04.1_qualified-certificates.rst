@@ -71,7 +71,7 @@ seguenti raccomandazioni:
       L’\ :code:`organizationName` non è utilizzato nel caso in cui il titolare
       sia un semplice cliente dell’organizzazione.
 
-c. Il :code:`dnQualifier: (`ᴏɪᴅ 2.5.4.46 <http://oid-info.com/get/2.5.4.46>`__)
+c. Il :code:`dnQualifier` (`ᴏɪᴅ 2.5.4.46 <http://oid-info.com/get/2.5.4.46>`__)
    che contiene il codice identificativo del titolare presso il prestatore
    del servizio. Tale codice è univoco nell’ambito del prestatore del servizio.
 
