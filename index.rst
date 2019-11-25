@@ -11,7 +11,7 @@ Regole Tecniche e Raccomandazioni afferenti la generazione di certificati elettr
 
    main/01_definizioni.rst
    main/02_scopo-ambito.rst
-   main/03_obblighi-qts.rst
-   main/04_raccomandazioni-qts.rst
+   main/03_obblighi.rst
+   main/04_raccomandazioni.rst
    main/05_convalida-qts.rst
-   main/06_norme-transitorie.rst
+   main/06_abrogazioni.rst
